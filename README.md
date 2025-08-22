@@ -1,5 +1,7 @@
 Purpose: Provide files from some of my Georgia Tech projects for code sampling
+
 Contents:
+
   isye7406_datamining_project.py - the main project file for my data mining class; analyzed the Student Success Factors dataset from Kaggle
   
   isye7406_datamining_project_eval.py - code for evaluating the models and results of the main project file
